@@ -30,8 +30,8 @@ BSE-FORECASTNLP/
 2. **Create a virtual environment:**
 
    ```bash
-   python3 -m venv env
-   source env/bin/activate   # On Windows: .\env\Scripts\activate
+   python3 -m venv .venv
+   source .venv/bin/activate   # On Windows: .\.venv\Scripts\activate
    ```
 
 3. **Install the required libraries:**
