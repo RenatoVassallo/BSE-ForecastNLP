@@ -1,6 +1,6 @@
 # Nowcasting and Forecasting with Text as Data
 
-This repository provides materials for the course Nowcasting and Forecasting with Text as Data, offered at the Barcelona School of Economics. The course covers NLP techniques to develop text-based indicators for time series and panel data forecasting and nowcasting with practical applications.
+This repository provides teaching materials — including slides, code, and datasets — to learn NLP techniques for creating text-based indicators for forecasting and nowcasting time series and panel data, with practical, hands-on examples.
 
 ## 📦 Repository Structure
 
