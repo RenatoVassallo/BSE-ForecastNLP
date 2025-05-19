@@ -1,6 +1,6 @@
 # Nowcasting and Forecasting with Text as Data
 
-This repository provides teaching materials — including slides, code, and datasets — to learn NLP techniques for creating text-based indicators for forecasting and nowcasting time series and panel data, with practical, hands-on examples.
+This repository contains teaching materials — including slides, code, and datasets — for learning how to build text-based indicators and apply them in forecasting and nowcasting tasks. Through practical, hands-on examples, it covers zero- and few-shot learning for text classification, event detection with limited labels, and mixed-frequency data techniques for time series modeling.
 
 ## 📦 Repository Structure
 
@@ -14,9 +14,9 @@ BSE-FORECASTNLP/
 └── requirements.txt
 ```
 
-* **session1**: Few-shot learning for text classification.
-* **session2**: Content will be uploaded closer to the session date.
-* **session3**: Content will be uploaded closer to the session date.
+* **Session 1**: Zero- and Few-Shot Learning for Text Classification
+* **Session 2**: Nowcasting Political Events with Limited Labeled Data
+* **Session 3**: Mixed Data Sampling Approaches for Time Series Nowcasting and Forecasting
 
 ## ✅ Setup Instructions
 
@@ -55,10 +55,5 @@ BSE-FORECASTNLP/
 5. **You are ready to go!**
 
    Navigate to the `session1` folder and try running any notebook.
-
-## 🔥 Upcoming Content
-
-* **Session 2:** Content will be uploaded soon. Stay tuned!
-* **Session 3:** Content will be uploaded soon. Stay tuned!
 
 Feel free to open issues or reach out if you have any questions. 🚀
