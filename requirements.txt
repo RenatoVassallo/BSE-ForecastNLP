@@ -6,3 +6,4 @@ seaborn>=0.13.2
 catboost==1.2.8
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl
 https://github.com/RenatoVassallo/FewShotX/releases/download/0.1.3/fewshotx-0.1.3-py3-none-any.whl
+https://github.com/RenatoVassallo/MIDAS/releases/download/0.1.0/midas-0.1.0-py3-none-any.whl
