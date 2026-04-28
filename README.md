@@ -23,6 +23,12 @@ BSE-FORECASTNLP/
 
 For this course, the recommended setup is a standard Python virtual environment using `requirements.txt`.
 
+Before starting, make sure you have:
+
+- **Git** installed: check with `git --version`
+- **Python 3.11** installed
+- **VSCode** installed, preferably with the Python and Jupyter extensions
+
 1. **Check Python 3.11**
 
    ```bash
@@ -40,9 +46,18 @@ For this course, the recommended setup is a standard Python virtual environment 
 
 3. **Create and activate a virtual environment**
 
+   On macOS / Linux:
+
    ```bash
    python3.11 -m venv .venv
-   source .venv/bin/activate   # On Windows: .\.venv\Scripts\activate
+   source .venv/bin/activate  
+   ```
+
+   On Windows: 
+   
+   ```bash
+   python -m venv .venv
+   .venv\Scripts\activate
    ```
 
 4. **Install dependencies**
@@ -51,6 +66,15 @@ For this course, the recommended setup is a standard Python virtual environment 
    pip install --upgrade pip
    pip install -r requirements.txt
    ```
+
+   This step may take a few minutes depending on your system. Please be patient.
+
+5. **Select the environment in VSCode**
+
+   Open a notebook in VSCode and select the Python interpreter associated with:
+
+   ```plain
+   .venv
 
 ## 🚀 Optional: uv setup
 
