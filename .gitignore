@@ -4,3 +4,7 @@ input/
 temp/
 .venv
 pycache/
+uv.lock
+session1/01_text_to_signals.ipynb
+session1/02_lab.ipynb
+session1/utils
