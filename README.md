@@ -71,10 +71,7 @@ Before starting, make sure you have:
 
 5. **Select the environment in VSCode**
 
-   Open a notebook in VSCode and select the Python interpreter associated with:
-
-   ```plain
-   .venv
+   Open a notebook in VSCode and select the `.venv` environment as the kernel.
 
 ## 🚀 Optional: uv setup
 
