@@ -1,0 +1,241 @@
+country,month,coup,term_limit_evasion,judiciary_weakening,any_event,severity_score,event_notes
+Bolivia,2022-01,0,0,0,0,0,none
+Bolivia,2022-02,0,0,0,0,0,none
+Bolivia,2022-03,0,0,0,0,0,none
+Bolivia,2022-04,0,0,0,0,0,none
+Bolivia,2022-05,0,0,0,0,0,none
+Bolivia,2022-06,0,0,0,0,0,none
+Bolivia,2022-07,0,0,0,0,0,none
+Bolivia,2022-08,0,0,1,1,1,Court appointments are reshuffled after judges challenge an extractive-sector decree.
+Bolivia,2022-09,0,0,0,0,0,none
+Bolivia,2022-10,0,0,0,0,0,none
+Bolivia,2022-11,0,0,0,0,0,none
+Bolivia,2022-12,0,0,0,0,0,none
+Bolivia,2023-01,0,0,0,0,0,none
+Bolivia,2023-02,0,0,0,0,0,none
+Bolivia,2023-03,0,0,0,0,0,none
+Bolivia,2023-04,0,0,0,0,0,none
+Bolivia,2023-05,0,0,0,0,0,none
+Bolivia,2023-06,0,1,0,1,2,Ruling lawyers argue that earlier mandates should not count under a constitutional reset.
+Bolivia,2023-07,0,0,0,0,0,none
+Bolivia,2023-08,0,0,0,0,0,none
+Bolivia,2023-09,0,0,0,0,0,none
+Bolivia,2023-10,0,0,0,0,0,none
+Bolivia,2023-11,0,0,0,0,0,none
+Bolivia,2023-12,0,0,0,0,0,none
+Bolivia,2024-01,0,0,0,0,0,none
+Bolivia,2024-02,0,0,0,0,0,none
+Bolivia,2024-03,0,0,0,0,0,none
+Bolivia,2024-04,0,0,0,0,0,none
+Bolivia,2024-05,0,0,0,0,0,none
+Bolivia,2024-06,0,0,0,0,0,none
+Bolivia,2024-07,0,0,0,0,0,none
+Bolivia,2024-08,0,0,0,0,0,none
+Bolivia,2024-09,0,0,0,0,0,none
+Bolivia,2024-10,0,0,0,0,0,none
+Bolivia,2024-11,0,0,1,1,1,Prosecutorial reassignments weaken judicial independence during a corruption probe.
+Bolivia,2024-12,0,0,0,0,0,none
+Bolivia,2025-01,0,0,0,0,0,none
+Bolivia,2025-02,0,0,0,0,0,none
+Bolivia,2025-03,0,0,1,1,1,A judicial disciplinary package weakens court autonomy during a fiscal investigation.
+Bolivia,2025-04,0,0,0,0,0,none
+Bolivia,2025-05,0,0,0,0,0,none
+Bolivia,2025-06,0,0,0,0,0,none
+Bolivia,2025-07,1,0,0,1,3,Military commanders detain ministers and announce a provisional authority after seizing state television.
+Bolivia,2025-08,0,0,0,0,0,none
+Bolivia,2025-09,0,0,0,0,0,none
+Bolivia,2025-10,0,0,0,0,0,none
+Bolivia,2025-11,0,0,0,0,0,none
+Bolivia,2025-12,0,0,0,0,0,none
+Guinea,2022-01,0,0,0,0,0,none
+Guinea,2022-02,0,0,0,0,0,none
+Guinea,2022-03,0,0,0,0,0,none
+Guinea,2022-04,0,0,0,0,0,none
+Guinea,2022-05,0,0,0,0,0,none
+Guinea,2022-06,0,0,1,1,1,Executive suspends judges after challenge to a mining-sector decree.
+Guinea,2022-07,0,0,0,0,0,none
+Guinea,2022-08,0,0,0,0,0,none
+Guinea,2022-09,0,0,0,0,0,none
+Guinea,2022-10,0,0,0,0,0,none
+Guinea,2022-11,0,0,0,0,0,none
+Guinea,2022-12,0,0,0,0,0,none
+Guinea,2023-01,0,0,0,0,0,none
+Guinea,2023-02,0,0,0,0,0,none
+Guinea,2023-03,0,0,1,1,1,Executive suspends judges after challenge to emergency procurement decree.
+Guinea,2023-04,0,0,0,0,0,none
+Guinea,2023-05,0,0,0,0,0,none
+Guinea,2023-06,0,0,0,0,0,none
+Guinea,2023-07,0,0,0,0,0,none
+Guinea,2023-08,0,0,0,0,0,none
+Guinea,2023-09,0,0,0,0,0,none
+Guinea,2023-10,0,0,0,0,0,none
+Guinea,2023-11,0,1,1,1,3,Ruling coalition advances constitutional change that could permit another presidential term. | Court appointments and disciplinary proceedings intensify during the constitutional revision push.
+Guinea,2023-12,0,0,0,0,0,none
+Guinea,2024-01,0,0,0,0,0,none
+Guinea,2024-02,0,0,0,0,0,none
+Guinea,2024-03,0,0,0,0,0,none
+Guinea,2024-04,0,0,0,0,0,none
+Guinea,2024-05,0,0,0,0,0,none
+Guinea,2024-06,0,0,0,0,0,none
+Guinea,2024-07,0,0,0,0,0,none
+Guinea,2024-08,1,0,0,1,3,Mutinous officers detain the president and announce a transition council.
+Guinea,2024-09,0,0,0,0,0,none
+Guinea,2024-10,0,0,0,0,0,none
+Guinea,2024-11,0,0,0,0,0,none
+Guinea,2024-12,0,0,0,0,0,none
+Guinea,2025-01,0,0,0,0,0,none
+Guinea,2025-02,0,0,0,0,0,none
+Guinea,2025-03,0,0,1,1,1,Judicial appointments are centralized after prosecutors challenge a revenue decree.
+Guinea,2025-04,0,0,0,0,0,none
+Guinea,2025-05,0,0,0,0,0,none
+Guinea,2025-06,0,0,0,0,0,none
+Guinea,2025-07,0,0,0,0,0,none
+Guinea,2025-08,0,0,0,0,0,none
+Guinea,2025-09,0,0,0,0,0,none
+Guinea,2025-10,0,0,0,0,0,none
+Guinea,2025-11,0,0,0,0,0,none
+Guinea,2025-12,0,0,0,0,0,none
+Mali,2022-01,0,0,0,0,0,none
+Mali,2022-02,0,0,0,0,0,none
+Mali,2022-03,0,0,0,0,0,none
+Mali,2022-04,0,0,1,1,1,Government reduces court review powers over security decrees.
+Mali,2022-05,0,0,0,0,0,none
+Mali,2022-06,0,0,0,0,0,none
+Mali,2022-07,0,0,0,0,0,none
+Mali,2022-08,0,0,0,0,0,none
+Mali,2022-09,0,0,0,0,0,none
+Mali,2022-10,0,0,0,0,0,none
+Mali,2022-11,0,0,0,0,0,none
+Mali,2022-12,0,0,0,0,0,none
+Mali,2023-01,0,0,0,0,0,none
+Mali,2023-02,0,0,0,0,0,none
+Mali,2023-03,0,0,0,0,0,none
+Mali,2023-04,0,0,0,0,0,none
+Mali,2023-05,0,0,0,0,0,none
+Mali,2023-06,0,0,0,0,0,none
+Mali,2023-07,0,0,0,0,0,none
+Mali,2023-08,0,0,0,0,0,none
+Mali,2023-09,1,0,0,1,3,Armed officers seize broadcasting infrastructure and suspend civilian authorities.
+Mali,2023-10,0,0,0,0,0,none
+Mali,2023-11,0,0,0,0,0,none
+Mali,2023-12,0,0,0,0,0,none
+Mali,2024-01,0,0,0,0,0,none
+Mali,2024-02,0,0,0,0,0,none
+Mali,2024-03,0,0,0,0,0,none
+Mali,2024-04,0,0,1,1,1,Magistrates face sanctions after releasing opposition organizers.
+Mali,2024-05,0,0,0,0,0,none
+Mali,2024-06,0,0,0,0,0,none
+Mali,2024-07,0,0,0,0,0,none
+Mali,2024-08,0,0,0,0,0,none
+Mali,2024-09,0,0,0,0,0,none
+Mali,2024-10,0,0,0,0,0,none
+Mali,2024-11,0,0,0,0,0,none
+Mali,2024-12,0,0,0,0,0,none
+Mali,2025-01,0,0,0,0,0,none
+Mali,2025-02,0,0,1,1,1,A disciplinary panel is created to investigate magistrates who challenge executive decrees.
+Mali,2025-03,0,0,0,0,0,none
+Mali,2025-04,0,0,0,0,0,none
+Mali,2025-05,0,0,0,0,0,none
+Mali,2025-06,0,0,0,0,0,none
+Mali,2025-07,0,0,0,0,0,none
+Mali,2025-08,0,0,0,0,0,none
+Mali,2025-09,0,1,0,1,2,Ruling lawyers promote a constitutional interpretation that could reopen presidential eligibility.
+Mali,2025-10,0,0,0,0,0,none
+Mali,2025-11,0,0,0,0,0,none
+Mali,2025-12,0,0,0,0,0,none
+Thailand,2022-01,0,0,0,0,0,none
+Thailand,2022-02,0,0,0,0,0,none
+Thailand,2022-03,0,0,0,0,0,none
+Thailand,2022-04,0,0,0,0,0,none
+Thailand,2022-05,1,0,0,1,3,Army commanders surround ministries and announce an interim governing council.
+Thailand,2022-06,0,0,0,0,0,none
+Thailand,2022-07,0,0,0,0,0,none
+Thailand,2022-08,0,0,0,0,0,none
+Thailand,2022-09,0,0,0,0,0,none
+Thailand,2022-10,0,0,0,0,0,none
+Thailand,2022-11,0,0,0,0,0,none
+Thailand,2022-12,0,0,0,0,0,none
+Thailand,2023-01,0,0,0,0,0,none
+Thailand,2023-02,0,0,1,1,1,The executive reassigns prosecutors after courts challenge emergency administration powers.
+Thailand,2023-03,0,0,0,0,0,none
+Thailand,2023-04,0,0,0,0,0,none
+Thailand,2023-05,0,0,0,0,0,none
+Thailand,2023-06,0,0,0,0,0,none
+Thailand,2023-07,0,0,0,0,0,none
+Thailand,2023-08,0,0,0,0,0,none
+Thailand,2023-09,0,0,0,0,0,none
+Thailand,2023-10,0,0,0,0,0,none
+Thailand,2023-11,0,0,0,0,0,none
+Thailand,2023-12,0,0,0,0,0,none
+Thailand,2024-01,0,0,0,0,0,none
+Thailand,2024-02,0,0,0,0,0,none
+Thailand,2024-03,0,0,0,0,0,none
+Thailand,2024-04,0,0,0,0,0,none
+Thailand,2024-05,0,0,0,0,0,none
+Thailand,2024-06,0,1,0,1,2,Government lawyers seek a constitutional reading that could reset the prime ministerial clock.
+Thailand,2024-07,0,0,0,0,0,none
+Thailand,2024-08,0,0,0,0,0,none
+Thailand,2024-09,0,0,0,0,0,none
+Thailand,2024-10,0,0,0,0,0,none
+Thailand,2024-11,0,0,0,0,0,none
+Thailand,2024-12,0,0,0,0,0,none
+Thailand,2025-01,0,0,0,0,0,none
+Thailand,2025-02,0,0,0,0,0,none
+Thailand,2025-03,0,0,0,0,0,none
+Thailand,2025-04,0,0,0,0,0,none
+Thailand,2025-05,0,0,0,0,0,none
+Thailand,2025-06,0,0,0,0,0,none
+Thailand,2025-07,0,0,0,0,0,none
+Thailand,2025-08,0,0,0,0,0,none
+Thailand,2025-09,0,1,0,1,2,Government lawyers seek an eligibility interpretation that could extend the prime ministerial mandate.
+Thailand,2025-10,0,0,0,0,0,none
+Thailand,2025-11,0,0,0,0,0,none
+Thailand,2025-12,0,0,0,0,0,none
+Tunisia,2022-01,0,0,0,0,0,none
+Tunisia,2022-02,0,0,0,0,0,none
+Tunisia,2022-03,0,0,0,0,0,none
+Tunisia,2022-04,0,0,0,0,0,none
+Tunisia,2022-05,0,0,0,0,0,none
+Tunisia,2022-06,0,0,0,0,0,none
+Tunisia,2022-07,0,0,0,0,0,none
+Tunisia,2022-08,0,0,0,0,0,none
+Tunisia,2022-09,0,0,0,0,0,none
+Tunisia,2022-10,0,1,0,1,2,A constitutional revision package weakens term constraints and reopens eligibility rules.
+Tunisia,2022-11,0,0,0,0,0,none
+Tunisia,2022-12,0,0,0,0,0,none
+Tunisia,2023-01,0,0,0,0,0,none
+Tunisia,2023-02,0,0,0,0,0,none
+Tunisia,2023-03,0,0,0,0,0,none
+Tunisia,2023-04,0,0,1,1,1,Executive decrees remove judges and narrow court review powers.
+Tunisia,2023-05,0,0,0,0,0,none
+Tunisia,2023-06,0,0,0,0,0,none
+Tunisia,2023-07,0,0,0,0,0,none
+Tunisia,2023-08,0,0,0,0,0,none
+Tunisia,2023-09,0,0,0,0,0,none
+Tunisia,2023-10,0,0,0,0,0,none
+Tunisia,2023-11,0,0,0,0,0,none
+Tunisia,2023-12,0,0,0,0,0,none
+Tunisia,2024-01,0,0,0,0,0,none
+Tunisia,2024-02,0,0,0,0,0,none
+Tunisia,2024-03,0,0,0,0,0,none
+Tunisia,2024-04,0,0,0,0,0,none
+Tunisia,2024-05,0,0,0,0,0,none
+Tunisia,2024-06,0,0,0,0,0,none
+Tunisia,2024-07,0,0,0,0,0,none
+Tunisia,2024-08,0,0,0,0,0,none
+Tunisia,2024-09,0,1,0,1,2,Ruling bloc pushes another eligibility reform just ahead of the presidential race.
+Tunisia,2024-10,0,0,0,0,0,none
+Tunisia,2024-11,0,0,0,0,0,none
+Tunisia,2024-12,0,0,0,0,0,none
+Tunisia,2025-01,0,0,0,0,0,none
+Tunisia,2025-02,0,0,0,0,0,none
+Tunisia,2025-03,0,0,0,0,0,none
+Tunisia,2025-04,0,0,0,0,0,none
+Tunisia,2025-05,0,0,1,1,1,Bar associations protest after the executive concentrates control over judicial appointments.
+Tunisia,2025-06,0,0,0,0,0,none
+Tunisia,2025-07,0,0,0,0,0,none
+Tunisia,2025-08,0,0,0,0,0,none
+Tunisia,2025-09,0,0,0,0,0,none
+Tunisia,2025-10,0,0,0,0,0,none
+Tunisia,2025-11,0,0,0,0,0,none
+Tunisia,2025-12,0,0,0,0,0,none

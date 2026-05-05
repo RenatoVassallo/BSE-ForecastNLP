@@ -9,6 +9,7 @@ BSE-FORECASTNLP/
 ├── session1/
 ├── session2/
 ├── session3/
+├── in_class_assignment/
 ├── .gitignore
 ├── pyproject.toml
 ├── README.md
