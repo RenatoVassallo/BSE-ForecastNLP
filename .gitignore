@@ -5,4 +5,3 @@ temp/
 .venv
 pycache/
 uv.lock
-in_class_assignment/
